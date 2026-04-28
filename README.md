@@ -1,4 +1,5 @@
 # IPL Match Analysis Dashboard
+*Interactive Excel dashboard showcasing IPL match insights through data cleaning, modeling, and visualization.*
 
 ## 📌 Project Overview
 This project analyzes IPL match data (2008–2024 seasons) using Excel.  
@@ -21,9 +22,12 @@ It includes data cleaning, transformation, and interactive dashboard creation.
 - Season‑wise breakdown of results
 - User‑friendly visuals for quick insights
 
-## 📂 Files Included
-- `IPL dashboard.xlsx` → Contains both the dataset and the interactive dashboard
-- `screenshots/` → Folder with dashboard images (add PNG/JPEG files here)
+## 📁 Files Included
+- `IPL_Match_Analysis_Dashboard.xlsx` → Contains both the dataset and the interactive dashboard
+- `screenshots/dashboard_overview.png` → Folder with dashboard images
+
+## 📸 Dashboard Screenshot
+![Dashboard Overview](screenshots/dashboard_overview.png)
 
 ## 🚀 How to View
 1. Download the Excel file from this repo.
@@ -31,6 +35,5 @@ It includes data cleaning, transformation, and interactive dashboard creation.
 3. Navigate through the dashboard tabs to explore interactive visuals.
 
 ## 👤 Author
-Nirav Prajapati  
-Data Analyst
-Skills: Power BI, Excel, SQL, Python
+**Nirav Prajapati**  
+**Data Analyst**
